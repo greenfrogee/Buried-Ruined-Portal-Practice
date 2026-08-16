@@ -1,0 +1,2 @@
+execute store result score #practice gold_blocks run fill -6 28 -6 22 5 22 minecraft:yellow_stained_glass replace minecraft:gold_block
+fill -6 28 -6 22 5 22 minecraft:gold_block replace minecraft:yellow_stained_glass

@@ -1,0 +1,72 @@
+## big 1
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## big 2
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## portal 1
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## portal 2
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## portal 3
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## portal 1
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## portal 1
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## portal 1
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## portal 1
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## portal 1
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## portal 1
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
+## portal 1
+# rotation 1
+# rotation 2
+# rotation 3
+# rotation 4
+
