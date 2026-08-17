@@ -1,5 +1,5 @@
 fill 22 5 22 -6 19 -6 polished_granite
-fill -6 23 -6 22 20 22 air
+fill -6 30 -6 22 20 22 air
 kill @e[type=item]
 
 ## portals
@@ -168,3 +168,5 @@ fill 22 5 22 -6 19 -6 polished_granite replace lava
 
 fill 8 5 8 8 20 8 polished_granite replace redstone_block
 fill 8 5 8 8 20 8 polished_granite replace structure_block
+
+function ruined_portal_practice:repair_walls
